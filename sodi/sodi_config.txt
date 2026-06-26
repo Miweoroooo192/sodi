@@ -1,0 +1,2 @@
+Build=9
+targetFile=sobitext.txt
